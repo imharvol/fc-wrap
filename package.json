@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["forocoches", "wrap"],
+  "keywords": [
+    "forocoches",
+    "wrap"
+  ],
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "domutils": "git@github.com:imharvol/domutils.git#prevElementSibling",
